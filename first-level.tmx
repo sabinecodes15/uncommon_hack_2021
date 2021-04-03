@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.5.0" orientation="orthogonal" renderorder="right-down" width="240" height="13" tilewidth="16" tileheight="16" infinite="0" nextlayerid="5" nextobjectid="4">
+ <tileset firstgid="1" source="kenney_16x16.tsx"/>
+ <layer id="1" name="background" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJzt1ldO41AUgGGDYBsMvbOlkEZCSbYEhJqqYUX0XjQsYb5nXohighnNefjkF/8+9+palnNJkqyTp0CREmU2qFBlky222aFGnVz00UefWb/LHvs0OOCQI4454ZQmLdp06NKLPvroM+3PueCSK6654ZY77nngkSeeeeGVt+ijjz7TfmIkSX4xyRTTzDDLHPMssMgSy6ywytpI9NFHn2WfY508BYqUKLNBhSqbbLHNDjXq0Ucffab9Lnvs0+CAQ4445oRTmrRo06FLL/roo8+0P+eCS6645oZb7rjngUeeeOaFV96ijz76TPuJUf/fTDLFNDPMMsc8CyyyxDIrrLI2Gn300WfZZ/39aIQQBpb19yPr/YfwL/s9niRn419zHUSa9rtnnn3Y82f6vW/Yz/jps9PMGeYa+znztO9g2jX+4f2LroNI0373zPcPe/5Mv/cN+xk/fXaaOcNcYz9nnvYdTLvG3bEk2WOfBgcccsQxJ5zSpEWbDl16Y+n7HOvkKVCkRJkNKlTZZIttdqhRjz76/7z/C9/nEeQ=
+  </data>
+ </layer>
+ <layer id="2" name="graphics" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJztlk0OgjAQhYcCWxMXqOfx52jGM+g5PEddKrdxSEoaSAgyUKam70smrErfvJlHIAIAAAAAAAAAANKmyrUVeHYRaQFgTULkMHSeWs17fh6Us6ulYWxuMXiTIpq+l3zvTXg39mX9f5KY/jvG5v+r1rkeSs9LvQw1876eY0V04jpXw15fFPfhlendrUG/X3z/5PyTd9I9f259DaGZX5ulk+GmT5tAr6nMcwrSuTe5tRQ+v0UpO2cX3uk3v+vDVUeyQ3nB3nCVxfxeJR7Xzo9WwxrMnad0lzrvcP3mrpZEos9O3EnjNDe53WQ+v6bXy8MQXTm/dzNdEwAAAAAAAIDoCxixH1w=
+  </data>
+ </layer>
+ <objectgroup id="4" name="ground">
+  <object id="3" x="0" y="160" width="3840" height="48"/>
+ </objectgroup>
+</map>
