@@ -20,9 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="454a2390-0fe2-4a32-bd24-99b6ee7ea8a6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../flappydemo/core/src/com/flappy/game/States/GameStateManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../flappydemo/core/src/com/flappy/game/States/GameStateManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flappydemo/core/src/com/flappy/game/States/MenuState.java" beforeDir="false" afterPath="$PROJECT_DIR$/../flappydemo/core/src/com/flappy/game/States/MenuState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flappydemo/core/src/com/flappy/game/States/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/../flappydemo/core/src/com/flappy/game/States/State.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/android/covid_game.android.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/core/covid_game.core.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/covid_game.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/covid_game.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/desktop/covid_game.desktop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +64,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../covid_game_w_and" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunManager" selected="Application.Desktop">
@@ -158,40 +171,49 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617480976536">
+    <state x="339" y="0" width="617" height="680" key="#Desktop" timestamp="1617493204397">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1617480976536" />
+    <state x="339" y="0" width="617" height="680" key="#Desktop/0.0.1280.680@0.0.1280.680" timestamp="1617493204397" />
+    <state x="158" y="87" key="#PSD" timestamp="1617490968425">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="158" y="87" key="#PSD/0.0.1280.680@0.0.1280.680" timestamp="1617490968425" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617493401613">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1617493401613" />
     <state x="446" y="47" key="#com.intellij.ide.util.MemberChooser" timestamp="1617480529611">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="446" y="47" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1617480529611" />
-    <state x="371" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1617480166654">
+    <state x="401" y="74" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1617493400365">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="371" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1617480166654" />
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1617480136896">
+    <state x="401" y="74" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1617493400365" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1617491846809">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1617480136896" />
-    <state width="1236" height="163" key="GridCell.Tab.0.bottom" timestamp="1617484489735">
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1617491846809" />
+    <state width="1236" height="163" key="GridCell.Tab.0.bottom" timestamp="1617490984403">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1617484489735" />
-    <state width="1236" height="163" key="GridCell.Tab.0.center" timestamp="1617484489735">
+    <state width="1236" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1617490984403" />
+    <state width="1236" height="163" key="GridCell.Tab.0.center" timestamp="1617490984402">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1617484489735" />
-    <state width="1236" height="163" key="GridCell.Tab.0.left" timestamp="1617484489735">
+    <state width="1236" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1617490984402" />
+    <state width="1236" height="163" key="GridCell.Tab.0.left" timestamp="1617490984401">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1617484489735" />
-    <state width="1236" height="163" key="GridCell.Tab.0.right" timestamp="1617484489735">
+    <state width="1236" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1617490984401" />
+    <state width="1236" height="163" key="GridCell.Tab.0.right" timestamp="1617490984403">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1617484489735" />
+    <state width="1236" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1617490984403" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1617483872500">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
