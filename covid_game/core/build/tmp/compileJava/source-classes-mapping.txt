@@ -1,0 +1,6 @@
+Scenes/Hud.java
+ Scenes.Hud
+com/rona/game/Coronagamevirus.java
+ com.rona.game.Coronagamevirus
+Screens/PlayScreen.java
+ Screens.PlayScreen
