@@ -63,7 +63,7 @@ public class PlayScreen implements Screen{
 
 
     public PlayScreen(MarioBros game){
-        atlas = new TextureAtlas("Mario_and_Enemies.pack");
+        atlas = new TextureAtlas("Protag.txt");
 
         this.game = game;
         //create cam used to follow mario through cam world
