@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/covid_game.iml" filepath="$PROJECT_DIR$/.idea/modules/covid_game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/covid_game.iml" filepath="$PROJECT_DIR$/.idea/covid_game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/covid_game.android.iml" filepath="$PROJECT_DIR$/.idea/modules/android/covid_game.android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/covid_game.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/covid_game.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/covid_game.desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/covid_game.desktop.iml" />
     </modules>
   </component>
 </project>
