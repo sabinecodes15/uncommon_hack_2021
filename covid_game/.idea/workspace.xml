@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="454a2390-0fe2-4a32-bd24-99b6ee7ea8a6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../second_covid_game/core/src/Scenes/Hud.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +65,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../covid_game_w_and" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../second_covid_game" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -178,42 +179,46 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="339" y="0" width="617" height="680" key="#Desktop/0.0.1280.680@0.0.1280.680" timestamp="1617493204397" />
-    <state x="158" y="87" key="#PSD" timestamp="1617490968425">
+    <state x="158" y="87" key="#PSD" timestamp="1617498180320">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="158" y="87" key="#PSD/0.0.1280.680@0.0.1280.680" timestamp="1617490968425" />
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617493401613">
+    <state x="158" y="87" key="#PSD/0.0.1280.680@0.0.1280.680" timestamp="1617498180320" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617498700845">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1617493401613" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1617498700845" />
     <state x="446" y="47" key="#com.intellij.ide.util.MemberChooser" timestamp="1617480529611">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="446" y="47" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1617480529611" />
-    <state x="401" y="74" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1617493400365">
+    <state x="406" y="88" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1617497755583">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="401" y="74" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1617493400365" />
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1617491846809">
+    <state x="406" y="88" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1617497755583" />
+    <state x="424" y="231" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1617499581882">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1617491846809" />
-    <state width="1236" height="163" key="GridCell.Tab.0.bottom" timestamp="1617490984403">
+    <state x="424" y="231" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1617499581882" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1617498460155">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1617490984403" />
-    <state width="1236" height="163" key="GridCell.Tab.0.center" timestamp="1617490984402">
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1617498460155" />
+    <state width="1236" height="163" key="GridCell.Tab.0.bottom" timestamp="1617503005962">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1617490984402" />
-    <state width="1236" height="163" key="GridCell.Tab.0.left" timestamp="1617490984401">
+    <state width="1236" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1617503005962" />
+    <state width="1236" height="163" key="GridCell.Tab.0.center" timestamp="1617503005962">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1617490984401" />
-    <state width="1236" height="163" key="GridCell.Tab.0.right" timestamp="1617490984403">
+    <state width="1236" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1617503005962" />
+    <state width="1236" height="163" key="GridCell.Tab.0.left" timestamp="1617503005962">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1617490984403" />
+    <state width="1236" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1617503005962" />
+    <state width="1236" height="163" key="GridCell.Tab.0.right" timestamp="1617503005962">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1617503005962" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1617483872500">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
